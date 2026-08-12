@@ -1,0 +1,116 @@
+﻿Ano;Data_Referencia;Empresa;CNPJ;Demonstracao;Categoria;Metrica;Rotulo;Codigo_Conta;Descricao_CVM;Valor_R$_mil;Valor_R$_milhoes;Moeda;Escala_Original;Versao_DFP;Fonte
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Total;Ativo total;1;Ativo Total;38384616,0;38384,616;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Circulante;Ativo circulante;1.01;Ativo Circulante;24509810,0;24509,81;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Caixa;Caixa e equivalentes;1.01.01;Caixa e Equivalentes de Caixa;2566218,0;2566,218;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Contas_a_Receber;Contas a receber;1.01.03;Contas a Receber;5650759,0;5650,759;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Estoques;Estoques;1.01.04;Estoques;9112214,0;9112,214;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Total;Passivo total e patrimônio líquido;2;Passivo Total;38384616,0;38384,616;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Circulante;Passivo circulante;2.01;Passivo Circulante;15257189,0;15257,189;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_CP;Empréstimos e financiamentos de curto prazo;2.01.04;Empréstimos e Financiamentos;407968,0;407,968;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_LP;Empréstimos e financiamentos de longo prazo;2.02.01;Empréstimos e Financiamentos;6384904,0;6384,904;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Patrimonio_Liquido;Patrimônio líquido consolidado;2.03;Patrimônio Líquido Consolidado;11261231,0;11261,231;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCO;Fluxo de caixa operacional;6.01;Caixa Líquido Atividades Operacionais;-4364476,0;-4364,476;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCI;Fluxo de caixa de investimento;6.02;Caixa Líquido Atividades de Investimento;-1317403,0;-1317,403;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Imobilizado;Aquisição de imobilizado;6.02.01;Aquisicao de Imobilizado;-863049,0;-863,049;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Intangivel;Aquisição de intangível;6.02.02;Aquisicao de Ativo Intangivel;-301073,0;-301,073;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCF;Fluxo de caixa de financiamento;6.03;Caixa Líquido Atividades de Financiamento;6566721,0;6566,721;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Variacao_Caixa;Variação de caixa;6.05;Aumento (Redução) de Caixa e Equivalentes;884842,0;884,842;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Receita;Receita líquida;3.01;Receita de Venda de Bens e/ou Serviços;35278150,0;35278,15;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Custos;Custos dos bens e serviços;3.02;Custo dos Bens e/ou Serviços Vendidos;-26791345,0;-26791,345;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Bruto;Lucro bruto;3.03;Resultado Bruto;8486805,0;8486,805;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Despesas_Operacionais;Despesas/receitas operacionais;3.04;Despesas/Receitas Operacionais;-8016203,0;-8016,203;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Operacional;Resultado operacional (antes do financeiro e tributos);3.05;Resultado Antes do Resultado Financeiro e dos Tributos;470602,0;470,602;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Financeiro;Resultado financeiro;3.06;Resultado Financeiro;-689011,0;-689,011;REAL;MIL;1;DFP 2021 - CVM
+2021;2021-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Liquido;Lucro/prejuízo consolidado;3.11;Lucro/Prejuízo Consolidado do Período;590661,0;590,661;REAL;MIL;1;DFP 2021 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Total;Ativo total;1;Ativo Total;37765845,0;37765,845;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Circulante;Ativo circulante;1.01;Ativo Circulante;21938136,0;21938,136;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Caixa;Caixa e equivalentes;1.01.01;Caixa e Equivalentes de Caixa;2420045,0;2420,045;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Contas_a_Receber;Contas a receber;1.01.03;Contas a Receber;6760270,0;6760,27;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Estoques;Estoques;1.01.04;Estoques;7790069,0;7790,069;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Total;Passivo total e patrimônio líquido;2;Passivo Total;37765845,0;37765,845;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Circulante;Passivo circulante;2.01;Passivo Circulante;14832925,0;14832,925;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_CP;Empréstimos e financiamentos de curto prazo;2.01.04;Empréstimos e Financiamentos;124297,0;124,297;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_LP;Empréstimos e financiamentos de longo prazo;2.02.01;Empréstimos e Financiamentos;6984460,0;6984,46;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Patrimonio_Liquido;Patrimônio líquido consolidado;2.03;Patrimônio Líquido Consolidado;10648701,0;10648,701;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCO;Fluxo de caixa operacional;6.01;Caixa Líquido Atividades Operacionais;3064122,0;3064,122;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCI;Fluxo de caixa de investimento;6.02;Caixa Líquido Atividades de Investimento;-1043558,0;-1043,558;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Imobilizado;Aquisição de imobilizado;6.02.01;Aquisicao de Imobilizado;-265129,0;-265,129;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Intangivel;Aquisição de intangível;6.02.02;Aquisicao de Ativo Intangivel;-430282,0;-430,282;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCF;Fluxo de caixa de financiamento;6.03;Caixa Líquido Atividades de Financiamento;-2166737,0;-2166,737;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Variacao_Caixa;Variação de caixa;6.05;Aumento (Redução) de Caixa e Equivalentes;-146173,0;-146,173;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Receita;Receita líquida;3.01;Receita de Venda de Bens e/ou Serviços;37299002,0;37299,002;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Custos;Custos dos bens e serviços;3.02;Custo dos Bens e/ou Serviços Vendidos;-26860106,0;-26860,106;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Bruto;Lucro bruto;3.03;Resultado Bruto;10438896,0;10438,896;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Despesas_Operacionais;Despesas/receitas operacionais;3.04;Despesas/Receitas Operacionais;-9667261,0;-9667,261;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Operacional;Resultado operacional (antes do financeiro e tributos);3.05;Resultado Antes do Resultado Financeiro e dos Tributos;771635,0;771,635;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Financeiro;Resultado financeiro;3.06;Resultado Financeiro;-2041033,0;-2041,033;REAL;MIL;1;DFP 2022 - CVM
+2022;2022-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Liquido;Lucro/prejuízo consolidado;3.11;Lucro/Prejuízo Consolidado do Período;-498975,0;-498,975;REAL;MIL;1;DFP 2022 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Total;Ativo total;1;Ativo Total;37455067,0;37455,067;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Circulante;Ativo circulante;1.01;Ativo Circulante;20221163,0;20221,163;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Caixa;Caixa e equivalentes;1.01.01;Caixa e Equivalentes de Caixa;2593346,0;2593,346;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Contas_a_Receber;Contas a receber;1.01.03;Contas a Receber;5885450,0;5885,45;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Estoques;Estoques;1.01.04;Estoques;7497299,0;7497,299;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Total;Passivo total e patrimônio líquido;2;Passivo Total;37455067,0;37455,067;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Circulante;Passivo circulante;2.01;Passivo Circulante;17408127,0;17408,127;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_CP;Empréstimos e financiamentos de curto prazo;2.01.04;Empréstimos e Financiamentos;2954347,0;2954,347;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_LP;Empréstimos e financiamentos de longo prazo;2.02.01;Empréstimos e Financiamentos;4400508,0;4400,508;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Patrimonio_Liquido;Patrimônio líquido consolidado;2.03;Patrimônio Líquido Consolidado;9610534,0;9610,534;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCO;Fluxo de caixa operacional;6.01;Caixa Líquido Atividades Operacionais;3354622,0;3354,622;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCI;Fluxo de caixa de investimento;6.02;Caixa Líquido Atividades de Investimento;-148400,0;-148,4;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Imobilizado;Aquisição de imobilizado;6.02.01;Aquisicao de Imobilizado;-168225,0;-168,225;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Intangivel;Aquisição de intangível;6.02.02;Aquisicao de Ativo Intangivel;-472620,0;-472,62;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCF;Fluxo de caixa de financiamento;6.03;Caixa Líquido Atividades de Financiamento;-3032921,0;-3032,921;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Variacao_Caixa;Variação de caixa;6.05;Aumento (Redução) de Caixa e Equivalentes;173301,0;173,301;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Receita;Receita líquida;3.01;Receita de Venda de Bens e/ou Serviços;36768149,0;36768,149;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Custos;Custos dos bens e serviços;3.02;Custo dos Bens e/ou Serviços Vendidos;-26604266,0;-26604,266;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Bruto;Lucro bruto;3.03;Resultado Bruto;10163883,0;10163,883;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Despesas_Operacionais;Despesas/receitas operacionais;3.04;Despesas/Receitas Operacionais;-10536031,0;-10536,031;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Operacional;Resultado operacional (antes do financeiro e tributos);3.05;Resultado Antes do Resultado Financeiro e dos Tributos;-372148,0;-372,148;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Financeiro;Resultado financeiro;3.06;Resultado Financeiro;-1692219,0;-1692,219;REAL;MIL;1;DFP 2023 - CVM
+2023;2023-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Liquido;Lucro/prejuízo consolidado;3.11;Lucro/Prejuízo Consolidado do Período;-979104,0;-979,104;REAL;MIL;1;DFP 2023 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Total;Ativo total;1;Ativo Total;37311858,0;37311,858;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Circulante;Ativo circulante;1.01;Ativo Circulante;19550824,0;19550,824;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Caixa;Caixa e equivalentes;1.01.01;Caixa e Equivalentes de Caixa;1827197,0;1827,197;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Contas_a_Receber;Contas a receber;1.01.03;Contas a Receber;5833528,0;5833,528;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Estoques;Estoques;1.01.04;Estoques;7611132,0;7611,132;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Total;Passivo total e patrimônio líquido;2;Passivo Total;37311858,0;37311,858;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Circulante;Passivo circulante;2.01;Passivo Circulante;16710550,0;16710,55;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_CP;Empréstimos e financiamentos de curto prazo;2.01.04;Empréstimos e Financiamentos;1402168,0;1402,168;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_LP;Empréstimos e financiamentos de longo prazo;2.02.01;Empréstimos e Financiamentos;3179992,0;3179,992;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Patrimonio_Liquido;Patrimônio líquido consolidado;2.03;Patrimônio Líquido Consolidado;11319262,0;11319,262;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCO;Fluxo de caixa operacional;6.01;Caixa Líquido Atividades Operacionais;15835331,0;15835,331;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCI;Fluxo de caixa de investimento;6.02;Caixa Líquido Atividades de Investimento;-1290606,0;-1290,606;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Imobilizado;Aquisição de imobilizado;6.02.01;Aquisicao de Imobilizado;-266600,0;-266,6;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Intangivel;Aquisição de intangível;6.02.02;Aquisicao de Ativo Intangivel;-462947,0;-462,947;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCF;Fluxo de caixa de financiamento;6.03;Caixa Líquido Atividades de Financiamento;-15310874,0;-15310,874;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Variacao_Caixa;Variação de caixa;6.05;Aumento (Redução) de Caixa e Equivalentes;-766149,0;-766,149;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Receita;Receita líquida;3.01;Receita de Venda de Bens e/ou Serviços;38038068,0;38038,068;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Custos;Custos dos bens e serviços;3.02;Custo dos Bens e/ou Serviços Vendidos;-26410812,0;-26410,812;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Bruto;Lucro bruto;3.03;Resultado Bruto;11627256,0;11627,256;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Despesas_Operacionais;Despesas/receitas operacionais;3.04;Despesas/Receitas Operacionais;-10064824,0;-10064,824;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Operacional;Resultado operacional (antes do financeiro e tributos);3.05;Resultado Antes do Resultado Financeiro e dos Tributos;1562432,0;1562,432;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Financeiro;Resultado financeiro;3.06;Resultado Financeiro;-1475048,0;-1475,048;REAL;MIL;1;DFP 2024 - CVM
+2024;2024-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Liquido;Lucro/prejuízo consolidado;3.11;Lucro/Prejuízo Consolidado do Período;448717,0;448,717;REAL;MIL;1;DFP 2024 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Total;Ativo total;1;Ativo Total;37911158,0;37911,158;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Ativo_Circulante;Ativo circulante;1.01;Ativo Circulante;19839054,0;19839,054;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Caixa;Caixa e equivalentes;1.01.01;Caixa e Equivalentes de Caixa;1575837,0;1575,837;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Contas_a_Receber;Contas a receber;1.01.03;Contas a Receber;5608982,0;5608,982;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPA;Balanço;Estoques;Estoques;1.01.04;Estoques;7181339,0;7181,339;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Total;Passivo total e patrimônio líquido;2;Passivo Total;37911158,0;37911,158;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Passivo_Circulante;Passivo circulante;2.01;Passivo Circulante;17182792,0;17182,792;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_CP;Empréstimos e financiamentos de curto prazo;2.01.04;Empréstimos e Financiamentos;998359,0;998,359;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Divida_LP;Empréstimos e financiamentos de longo prazo;2.02.01;Empréstimos e Financiamentos;3946177,0;3946,177;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;BPP;Balanço;Patrimonio_Liquido;Patrimônio líquido consolidado;2.03;Patrimônio Líquido Consolidado;11278030,0;11278,03;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCO;Fluxo de caixa operacional;6.01;Caixa Líquido Atividades Operacionais;15719373,0;15719,373;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCI;Fluxo de caixa de investimento;6.02;Caixa Líquido Atividades de Investimento;-1000816,0;-1000,816;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Imobilizado;Aquisição de imobilizado;6.02.01;Aquisicao de Imobilizado;-330687,0;-330,687;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Capex_Intangivel;Aquisição de intangível;6.02.02;Aquisicao de Ativo Intangivel;-560928,0;-560,928;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;FCF;Fluxo de caixa de financiamento;6.03;Caixa Líquido Atividades de Financiamento;-14969917,0;-14969,917;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DFC_MI;Fluxo de caixa;Variacao_Caixa;Variação de caixa;6.05;Aumento (Redução) de Caixa e Equivalentes;-251360,0;-251,36;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Receita;Receita líquida;3.01;Receita de Venda de Bens e/ou Serviços;38703387,0;38703,387;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Custos;Custos dos bens e serviços;3.02;Custo dos Bens e/ou Serviços Vendidos;-27148836,0;-27148,836;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Bruto;Lucro bruto;3.03;Resultado Bruto;11554551,0;11554,551;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Despesas_Operacionais;Despesas/receitas operacionais;3.04;Despesas/Receitas Operacionais;-9635868,0;-9635,868;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Operacional;Resultado operacional (antes do financeiro e tributos);3.05;Resultado Antes do Resultado Financeiro e dos Tributos;1918683,0;1918,683;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Resultado_Financeiro;Resultado financeiro;3.06;Resultado Financeiro;-2044179,0;-2044,179;REAL;MIL;1;DFP 2025 - CVM
+2025;2025-12-31;MAGAZINE LUIZA S.A.;47.960.950/0001-21;DRE;Resultado;Lucro_Liquido;Lucro/prejuízo consolidado;3.11;Lucro/Prejuízo Consolidado do Período;204603,0;204,603;REAL;MIL;1;DFP 2025 - CVM

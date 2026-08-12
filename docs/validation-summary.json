@@ -1,0 +1,57 @@
+{
+  "dados": {
+    "registros": 115,
+    "anos": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "duplicidades": 0,
+    "ausentes": 0,
+    "max_diferenca_balanco_milhoes": 0.0
+  },
+  "json": {
+    "arquivos_validos": 21
+  },
+  "modelo": {
+    "lineage_tags_uuid": 78,
+    "medidas_dax": 37,
+    "visuais_pbir": 12,
+    "referencias_medidas_validas": 29,
+    "referencias_colunas_validas": 1
+  },
+  "imagens": {
+    "01-visao-executiva.png": [
+      1920,
+      1080
+    ],
+    "02-dre-e-margens.png": [
+      1920,
+      1080
+    ],
+    "03-fluxo-de-caixa.png": [
+      1920,
+      1080
+    ],
+    "04-balanco-e-liquidez.png": [
+      1920,
+      1080
+    ]
+  },
+  "planilha": {
+    "arquivo_valido": true,
+    "bytes": 25774
+  },
+  "pacote_pbip": {
+    "arquivo_valido": true,
+    "arquivos": 30,
+    "bytes": 23979
+  },
+  "documentacao": {
+    "arquivos_markdown_revisados": 4,
+    "links_locais_validos": 14,
+    "logotipos_distribuidos": 0
+  }
+}

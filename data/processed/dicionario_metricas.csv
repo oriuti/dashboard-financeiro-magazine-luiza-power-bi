@@ -1,0 +1,32 @@
+﻿Metrica;Rotulo;Categoria;Demonstracao;Codigo_Conta_CVM;Unidade_Modelo;Regra
+Receita;Receita líquida;Resultado;DRE;3.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Custos;Custos dos bens e serviços;Resultado;DRE;3.02;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Lucro_Bruto;Lucro bruto;Resultado;DRE;3.03;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Despesas_Operacionais;Despesas/receitas operacionais;Resultado;DRE;3.04;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Resultado_Operacional;Resultado operacional (antes do financeiro e tributos);Resultado;DRE;3.05;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Resultado_Financeiro;Resultado financeiro;Resultado;DRE;3.06;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Lucro_Liquido;Lucro/prejuízo consolidado;Resultado;DRE;3.11;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Ativo_Total;Ativo total;Balanço;BPA;1;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Ativo_Circulante;Ativo circulante;Balanço;BPA;1.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Caixa;Caixa e equivalentes;Balanço;BPA;1.01.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Contas_a_Receber;Contas a receber;Balanço;BPA;1.01.03;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Estoques;Estoques;Balanço;BPA;1.01.04;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Passivo_Total;Passivo total e patrimônio líquido;Balanço;BPP;2;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Passivo_Circulante;Passivo circulante;Balanço;BPP;2.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Divida_CP;Empréstimos e financiamentos de curto prazo;Balanço;BPP;2.01.04;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Divida_LP;Empréstimos e financiamentos de longo prazo;Balanço;BPP;2.02.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Patrimonio_Liquido;Patrimônio líquido consolidado;Balanço;BPP;2.03;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+FCO;Fluxo de caixa operacional;Fluxo de caixa;DFC_MI;6.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+FCI;Fluxo de caixa de investimento;Fluxo de caixa;DFC_MI;6.02;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+FCF;Fluxo de caixa de financiamento;Fluxo de caixa;DFC_MI;6.03;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Variacao_Caixa;Variação de caixa;Fluxo de caixa;DFC_MI;6.05;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Capex_Imobilizado;Aquisição de imobilizado;Fluxo de caixa;DFC_MI;6.02.01;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Capex_Intangivel;Aquisição de intangível;Fluxo de caixa;DFC_MI;6.02.02;R$ milhões;Valor CVM em R$ mil dividido por 1.000
+Capex;Capex;Calculado;DFC_MI;6.02.01 + 6.02.02;R$ milhões;Aquisição de imobilizado + aquisição de intangível
+Fluxo_Caixa_Livre;Fluxo de caixa livre;Calculado;DFC_MI;6.01 + 6.02.01 + 6.02.02;R$ milhões;FCO + Capex (capex já vem com sinal negativo)
+Divida_Bruta;Dívida bruta;Calculado;BPP;2.01.04 + 2.02.01;R$ milhões;Empréstimos e financiamentos CP + LP
+Divida_Liquida;Dívida líquida;Calculado;BPA/BPP;2.01.04 + 2.02.01 - 1.01.01;R$ milhões;Dívida bruta - caixa
+Margem_Bruta;Margem bruta;Calculado;DRE;3.03 / 3.01;%;Lucro bruto / receita
+Margem_Operacional;Margem operacional;Calculado;DRE;3.05 / 3.01;%;Resultado operacional / receita
+Margem_Liquida;Margem líquida;Calculado;DRE;3.11 / 3.01;%;Lucro líquido / receita
+Liquidez_Corrente;Liquidez corrente;Calculado;BPA/BPP;1.01 / 2.01;x;Ativo circulante / passivo circulante
