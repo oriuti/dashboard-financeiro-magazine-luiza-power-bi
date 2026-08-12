@@ -1,0 +1,27 @@
+# Arquivos brutos baixados da CVM
+data/raw/*.zip
+
+# Arquivos temporários do Power BI Desktop
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/*.lock
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Artefatos locais de validação
+*.inspect.ndjson
+docs/workbook-preview/
+
+# Projeto expandido é gerado localmente; a versão distribuída fica em ZIP
+powerbi/*.Report/
+powerbi/*.SemanticModel/
+powerbi/*.pbip
+
+# Sistema/editores
+.DS_Store
+Thumbs.db
+~$*
